@@ -22,6 +22,7 @@ gem 'jquery-rails'
 gem 'paperclip', '~> 5.2', '>= 5.2.1'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'jquery-turbolinks', '~> 2.1'
+gem 'acts_as_votable', '~> 0.11.1'
 
 
 
